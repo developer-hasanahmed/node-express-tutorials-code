@@ -1,6 +1,12 @@
+
+
 exports.getName = () =>{
     return "Anisul Islam";
 }
+
+// const getName = () =>{
+//     return "Anisul Islam";
+// }
 
 const getAge = () => {
     return "25";
